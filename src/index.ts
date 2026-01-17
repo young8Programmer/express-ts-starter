@@ -2,6 +2,7 @@ import express, { Application } from "express"
 // integration testlar yaratildi
 // API hujjatlarini qo'shish
 // shopping cart funksiyasi qo'shildi
+// environment variables sozlandi
 // API response formatini yaxshilash
 // code comments qo'shildi
 // installation qo'llanmasi yaratildi

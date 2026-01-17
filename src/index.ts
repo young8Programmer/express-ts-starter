@@ -5,6 +5,7 @@ import express, { Application } from "express"
 // code comments qo'shildi
 // package.json yangilandi
 import dotenv from "dotenv"
+// API endpoint testlari qo'shildi
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
 // kod formatlash va indentatsiya

@@ -5,6 +5,7 @@ import express, { Application } from "express"
 // environment variables sozlandi
 // API response formatini yaxshilash
 // code comments qo'shildi
+// API hujjatlarini qo'shish
 // installation qo'llanmasi yaratildi
 // package.json yangilandi
 import dotenv from "dotenv"

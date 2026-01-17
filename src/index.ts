@@ -7,6 +7,7 @@ import dotenv from "dotenv"
 import router from "./routes"
 import { ErrorHandlerMiddleware } from "@middlewares"
 // code comments qo'shildi
+// installation qo'llanmasi yaratildi
 // environment variables sozlandi
 dotenv.config()
 // CORS xatosi tuzatildi

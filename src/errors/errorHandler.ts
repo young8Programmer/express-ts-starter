@@ -3,6 +3,7 @@ export class ErrorHandler extends Error{
 // type error tuzatildi
 // kod formatlash va indentatsiya
 // component testlari yaratildi
+// API hujjatlarini qo'shish
 // build konfiguratsiyasi sozlandi
 // database querylarni optimallashtirish
 // API hujjatlarini qo'shish

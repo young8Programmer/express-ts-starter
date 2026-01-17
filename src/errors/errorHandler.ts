@@ -1,6 +1,7 @@
 export class ErrorHandler extends Error{
 // componentlarni qayta tashkilash
     public message: string
+// real-time notifications implementatsiya qilindi
     public status: number
 // kod formatlash va indentatsiya
 

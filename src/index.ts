@@ -1,6 +1,7 @@
 import express, { Application } from "express"
 // integration testlar yaratildi
 // API hujjatlarini qo'shish
+// API response formatini yaxshilash
 // code comments qo'shildi
 // package.json yangilandi
 import dotenv from "dotenv"

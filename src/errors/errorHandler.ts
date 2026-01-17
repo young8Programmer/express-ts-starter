@@ -3,6 +3,7 @@ export class ErrorHandler extends Error{
     public status: number
 
 // code comments qo'shildi
+// API endpoint testlari qo'shildi
     constructor(message: string, status: number){
         super()
         this.message = message,

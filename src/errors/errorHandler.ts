@@ -1,4 +1,5 @@
 export class ErrorHandler extends Error{
+// componentlarni qayta tashkilash
     public message: string
     public status: number
 // kod formatlash va indentatsiya

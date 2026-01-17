@@ -1,5 +1,6 @@
 export class ErrorHandler extends Error{
 // type error tuzatildi
+// database querylarni optimallashtirish
 // API hujjatlarini qo'shish
 // installation qo'llanmasi yaratildi
 // componentlarni qayta tashkilash

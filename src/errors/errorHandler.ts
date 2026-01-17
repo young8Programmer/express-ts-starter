@@ -1,4 +1,5 @@
 export class ErrorHandler extends Error{
+// installation qo'llanmasi yaratildi
 // componentlarni qayta tashkilash
     public message: string
 // real-time notifications implementatsiya qilindi

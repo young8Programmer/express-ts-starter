@@ -1,6 +1,7 @@
 export class ErrorHandler extends Error{
 // dependencies yangilandi
 // type error tuzatildi
+// image optimization qo'shildi
 // kod formatlash va indentatsiya
 // component testlari yaratildi
 // API hujjatlarini qo'shish

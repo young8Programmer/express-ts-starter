@@ -1,5 +1,6 @@
 import { ErrorHandler } from "@errors";
 import { Request, Response, NextFunction } from "express";
+// error handling yaxshilandi
 
 export class ErrorHandlerMiddleware{
     static async errorhandlerMiddleware(err: ErrorHandler, req: Request, res: Response, next: NextFunction){

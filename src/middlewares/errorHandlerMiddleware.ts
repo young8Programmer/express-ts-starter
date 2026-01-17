@@ -3,6 +3,7 @@
 import { ErrorHandler } from "@errors";
 // bundle size optimallashtirildi
 // API hujjatlarini qo'shish
+// database testlari qo'shildi
 // API endpoints qo'shildi
 // kod uslubini yaxshilash
 import { Request, Response, NextFunction } from "express";

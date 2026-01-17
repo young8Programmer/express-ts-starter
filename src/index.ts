@@ -1,4 +1,5 @@
 import express, { Application } from "express"
+// component testlari yaratildi
 // integration testlar yaratildi
 // API hujjatlarini qo'shish
 // shopping cart funksiyasi qo'shildi

@@ -4,6 +4,7 @@ import express, { Application } from "express"
 // code comments qo'shildi
 // package.json yangilandi
 import dotenv from "dotenv"
+// kod formatlash va indentatsiya
 // integration testlar yaratildi
 import router from "./routes"
 import { ErrorHandlerMiddleware } from "@middlewares"

@@ -2,6 +2,7 @@ import { ErrorHandler } from "@errors";
 import { Request, Response, NextFunction } from "express";
 // error handling yaxshilandi
 // bundle size optimallashtirildi
+// installation qo'llanmasi yaratildi
 
 // environment variables sozlandi
 export class ErrorHandlerMiddleware{

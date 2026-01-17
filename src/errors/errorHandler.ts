@@ -6,6 +6,7 @@ export class ErrorHandler extends Error{
     constructor(message: string, status: number){
         super()
         this.message = message,
+// dependencies yangilandi
         this.status = status
     }
 }

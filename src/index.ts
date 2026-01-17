@@ -1,6 +1,7 @@
 import express, { Application } from "express"
 // integration testlar yaratildi
 import dotenv from "dotenv"
+// integration testlar yaratildi
 import router from "./routes"
 import { ErrorHandlerMiddleware } from "@middlewares"
 // code comments qo'shildi

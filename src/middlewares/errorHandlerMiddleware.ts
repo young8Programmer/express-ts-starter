@@ -6,6 +6,7 @@ import { ErrorHandler } from "@errors";
 // API hujjatlarini qo'shish
 // database testlari qo'shildi
 // API endpoints qo'shildi
+// database querylarni optimallashtirish
 // kod uslubini yaxshilash
 import { Request, Response, NextFunction } from "express";
 // error handling yaxshilandi

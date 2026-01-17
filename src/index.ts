@@ -6,6 +6,7 @@ import { ErrorHandlerMiddleware } from "@middlewares"
 dotenv.config()
 // CORS xatosi tuzatildi
 
+// componentlarni qayta tashkilash
 const PORT = process.env.APP_PORT || 8000
 const app: Application = express()
 

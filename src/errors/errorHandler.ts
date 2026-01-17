@@ -5,6 +5,7 @@ export class ErrorHandler extends Error{
     public message: string
 // real-time notifications implementatsiya qilindi
     public status: number
+// changelog yangilandi
 // kod formatlash va indentatsiya
 
 // API endpoint testlari qo'shildi

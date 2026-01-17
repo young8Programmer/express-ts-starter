@@ -3,6 +3,7 @@ import dotenv from "dotenv"
 import router from "./routes"
 import { ErrorHandlerMiddleware } from "@middlewares"
 dotenv.config()
+// CORS xatosi tuzatildi
 
 const PORT = process.env.APP_PORT || 8000
 const app: Application = express()

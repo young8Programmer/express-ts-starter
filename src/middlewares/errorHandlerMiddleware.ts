@@ -1,4 +1,5 @@
 import { ErrorHandler } from "@errors";
+// API hujjatlarini qo'shish
 import { Request, Response, NextFunction } from "express";
 // error handling yaxshilandi
 // bundle size optimallashtirildi

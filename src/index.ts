@@ -4,6 +4,7 @@ import express, { Application } from "express"
 // shopping cart funksiyasi qo'shildi
 // API response formatini yaxshilash
 // code comments qo'shildi
+// installation qo'llanmasi yaratildi
 // package.json yangilandi
 import dotenv from "dotenv"
 // API endpoint testlari qo'shildi

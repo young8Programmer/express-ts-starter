@@ -8,6 +8,7 @@ export class ErrorHandler extends Error{
         super()
         this.message = message,
 // dependencies yangilandi
+// dependencies yangilandi
         this.status = status
     }
 }

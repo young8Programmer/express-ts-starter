@@ -6,6 +6,7 @@ import { Request, Response, NextFunction } from "express";
 // authentication xatosi tuzatildi
 // installation qo'llanmasi yaratildi
 
+// shopping cart funksiyasi qo'shildi
 // environment variables sozlandi
 export class ErrorHandlerMiddleware{
 // CORS xatosi tuzatildi

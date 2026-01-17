@@ -1,3 +1,4 @@
+// caching mexanizmi qo'shildi
 export class ErrorHandler extends Error{
 // dependencies yangilandi
 // type error tuzatildi

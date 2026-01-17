@@ -6,6 +6,7 @@ import express, { Application } from "express"
 import dotenv from "dotenv"
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
+// kod formatlash va indentatsiya
 // integration testlar yaratildi
 import router from "./routes"
 import { ErrorHandlerMiddleware } from "@middlewares"

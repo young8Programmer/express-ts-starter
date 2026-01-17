@@ -1,5 +1,6 @@
 import express, { Application } from "express"
 // integration testlar yaratildi
+// package.json yangilandi
 import dotenv from "dotenv"
 // integration testlar yaratildi
 import router from "./routes"

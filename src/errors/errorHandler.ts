@@ -1,4 +1,5 @@
 export class ErrorHandler extends Error{
+// type error tuzatildi
 // installation qo'llanmasi yaratildi
 // componentlarni qayta tashkilash
     public message: string
